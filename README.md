@@ -10,5 +10,6 @@ This repository holds my solutions to MySQL practice problems.
 5. Delete:
 6. Update: LC 627
 7. Conditional:
-  * CASE WHEN ELSE END: LC 1179
+  * CASE WHEN THEN ELSE END: LC 1179
   * IF(): LC 1179
+8. Subqueries: LC 1112
