@@ -12,4 +12,4 @@ This repository holds my solutions to MySQL practice problems.
 7. Conditional:
   * CASE WHEN THEN ELSE END: LC 1179
   * IF(): LC 1179
-8. Subqueries: LC 1112
+8. Subqueries: LC 1098, LC 1112
