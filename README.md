@@ -15,3 +15,4 @@ This repository holds my solutions to MySQL practice problems.
   * CASE WHEN THEN ELSE END: LC 1179
   * IF(): LC 1179
 8. Subqueries: LC 550, LC 1077, LC 1098, LC 1126, LC 1112
+  * NOT IN: LC 1264
