@@ -7,12 +7,12 @@ This repository holds my solutions to MySQL practice problems.
   * Inner Joins: African Countries (HR)
   * Left Join: LC 580
 4. Aggregation: Revising Aggregations - The Sum Function (HR), Weather Observation Station 13
-  * Group: LC 182, LC 580, LC 1179
+  * Group: LC 182, LC 580, LC 614, LC 1179
   * Witnessing Problem (Argmax): LC 1077
 5. Delete:
 6. Update: LC 627
 7. Conditional:
   * CASE WHEN THEN ELSE END: LC 1179
   * IF(): LC 1179
-8. Subqueries: LC 550, LC 1077, LC 1098, LC 1126, LC 1112
+8. Subqueries: LC 550, LC 614, LC 1077, LC 1098, LC 1126, LC 1112
   * NOT IN: LC 1264
