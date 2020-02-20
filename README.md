@@ -16,4 +16,5 @@ This repository holds my solutions to MySQL practice problems.
   * IF(): LC 1179
 8. Subqueries: LC 550, LC 614, LC 1077, LC 1098, LC 1126, LC 1112
   * NOT IN: LC 1264
+  * Subquery in FROM/JOIN: LC 1241
 9. Union, Intersect, Except (All): LC 1212
