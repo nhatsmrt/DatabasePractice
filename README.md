@@ -14,7 +14,7 @@ This repository holds my solutions to MySQL practice problems.
 7. Conditional:
   * CASE WHEN THEN ELSE END: LC 1179
   * IF(): LC 1179
-8. Subqueries: LC 550, LC 614, LC 1077, LC 1098, LC 1126, LC 1112
+8. Subqueries: LC 550, LC 614, LC 1077, LC 1098, LC 1126, LC 1112, LC 1204
   * NOT IN: LC 1264
   * Subquery in FROM/JOIN: LC 1241
 9. Union, Intersect, Except (All): LC 1212
