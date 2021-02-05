@@ -2,10 +2,11 @@
 This repository holds my solutions to MySQL practice problems.
 ## Problems Solved:
 1. Select: LC 180, LC 185, LC 262, LC 595, LC 601, LC 1683
-  * Sorting Result Set: LC 586 (Sol 2), LC 620
+  * Sorting Result Set: LC 586 (Sol 2), LC 620, LC 1459
 3. Joins: LC 178, LC 184, LC 196, LC 550, LC 1126
   * Inner Joins: African Countries (HR)
   * Left Join: LC 580
+  * Cross Join/Cartesian Product: LC 1459
 4. Aggregation: Revising Aggregations - The Sum Function (HR), Weather Observation Station 13
   * Group: LC 182, LC 580, LC 585, LC 614, LC 1179, LC 1341
   * Witnessing Problem (Argmax): LC 586 (Sol 1), LC 1077
