@@ -20,3 +20,5 @@ This repository holds my solutions to MySQL practice problems.
   * Subquery in FROM/JOIN: LC 1241
 9. Union, Intersect, Except (All): LC 1212
   * Contains (Not Exists - Except): LC 1045
+10. Ranking:
+  * Dense Rank: LC 178
