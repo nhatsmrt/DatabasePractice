@@ -5,10 +5,10 @@ This repository holds my solutions to MySQL practice problems.
   * Sorting Result Set: LC 586 (Sol 2), LC 620, LC 1459
 3. Joins: LC 178, LC 184, LC 196, LC 550, LC 1126
   * Inner Joins: African Countries (HR)
-  * Left Join: LC 580
+  * Left Join:  LC 571 (Median Given Frequency), LC 580
   * Cross Join/Cartesian Product: LC 1459
 4. Aggregation: Revising Aggregations - The Sum Function (HR), Weather Observation Station 13
-  * Group: LC 182, LC 569, LC 580, LC 585, LC 614, LC 1045 (Solution 2), LC 1179, LC 1341, LC 1393
+  * Group: LC 182, LC 569, LC 571 (Median Given Frequency), LC 580, LC 585, LC 614, LC 1045 (Solution 2), LC 1179, LC 1341, LC 1393
   * Witnessing Problem (Argmax): LC 586 (Sol 1), LC 1077
 5. Delete:
 6. Update: LC 627
